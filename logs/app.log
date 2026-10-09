@@ -1,0 +1,631 @@
+2026-09-03 16:53:35 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-03 16:53:44 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:53:52 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:53:52 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:53:52 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:53:52 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:53:52 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:53:52 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:53:52 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:53:52 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 16:53:52 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 16:53:53 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 16:53:54 [main] ERROR ActionDriver - Test Failed - Text is not Matching
+2026-09-03 16:53:54 [main] INFO  ActionDriver - Expected: Invalid credentials1
+2026-09-03 16:53:54 [main] INFO  ActionDriver - Actual: Invalid credentials
+2026-09-03 16:53:55 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 16:53:57 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:54:02 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:54:02 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:54:02 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:54:02 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:54:02 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:54:02 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:54:02 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:54:02 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 16:54:03 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 16:54:03 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 16:54:05 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 16:54:06 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 16:54:09 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 16:54:10 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:54:16 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:54:16 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:54:16 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:54:16 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:54:16 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:54:16 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:54:16 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:54:16 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 16:54:16 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 16:54:16 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 16:54:18 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 16:58:39 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-03 16:58:41 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:58:45 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:58:45 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:58:45 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:58:45 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:58:45 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:58:45 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:58:45 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Element is not visible: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=152.0.7977.65)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Element is not clickable: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=xpath, value=//button[text()=' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - unable to click an Element
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] ERROR ActionDriver - Unable to compare texts: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b7ac3a00a97fce2306390137cc2755b8, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:34006}, goog:processID: 10432, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:34006/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b7ac3a00a97fce2306390137cc2755b8
+2026-09-03 16:59:10 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 16:59:11 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:59:16 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:59:16 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:59:16 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:59:16 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:59:16 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:59:16 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:59:16 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Element is not visible: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=152.0.7977.65)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Element is not clickable: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=xpath, value=//button[text()=' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - unable to click an Element
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] ERROR ActionDriver - Element is not displayed: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18f2571dab337cb5821c0ed45ebfd371, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36149}, goog:processID: 22088, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:36149/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 18f2571dab337cb5821c0ed45ebfd371
+2026-09-03 16:59:16 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 16:59:17 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 16:59:21 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 16:59:21 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 16:59:21 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 16:59:21 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 16:59:21 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 16:59:21 [main] WARN  BaseClass - This is warn Message
+2026-09-03 16:59:21 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Element is not visible: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=152.0.7977.65)
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Unable to enter the value: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Element is not clickable: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=xpath, value=//button[text()=' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - unable to click an Element
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Element is not visible: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] ERROR ActionDriver - Element is not displayed: invalid session id
+Build info: version: '4.47.0', revision: '9175ed9 9175ed94d83e87cc3abeb7c9fd91367d17849d35'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3a42e70f4194fbbf9eb55c4a95bcd928, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.75 (4999cc1efed3..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:30167}, goog:processID: 6408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:30167/devtoo..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3a42e70f4194fbbf9eb55c4a95bcd928
+2026-09-03 16:59:21 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 17:03:31 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-03 17:03:33 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 17:03:38 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 17:03:38 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 17:03:38 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 17:03:38 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 17:03:38 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 17:03:38 [main] WARN  BaseClass - This is warn Message
+2026-09-03 17:03:38 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 17:03:38 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 17:03:39 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 17:03:39 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 17:03:40 [main] ERROR ActionDriver - Test Failed - Text is not Matching
+2026-09-03 17:03:40 [main] INFO  ActionDriver - Expected: Invalid credentials1
+2026-09-03 17:03:40 [main] INFO  ActionDriver - Actual: Invalid credentials
+2026-09-03 17:03:40 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 17:03:42 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 17:03:47 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 17:03:47 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 17:03:47 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 17:03:47 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 17:03:47 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 17:03:47 [main] WARN  BaseClass - This is warn Message
+2026-09-03 17:03:47 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 17:03:47 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 17:03:47 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 17:03:47 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 17:03:49 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 17:03:50 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 17:03:53 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 17:03:54 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 17:03:59 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 17:03:59 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 17:03:59 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 17:03:59 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 17:03:59 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 17:03:59 [main] WARN  BaseClass - This is warn Message
+2026-09-03 17:03:59 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 17:03:59 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 17:03:59 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 17:04:00 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 17:04:01 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 18:00:43 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-03 18:00:47 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 18:00:54 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 18:00:54 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 18:00:54 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 18:00:54 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 18:00:54 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 18:00:54 [main] WARN  BaseClass - This is warn Message
+2026-09-03 18:00:54 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 18:00:54 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 18:00:55 [main] INFO  ActionDriver - Entered text :admin
+2026-09-03 18:00:56 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 18:00:56 [main] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-03 18:00:56 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 18:00:58 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 18:01:02 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 18:01:02 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 18:01:02 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 18:01:02 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 18:01:02 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 18:01:02 [main] WARN  BaseClass - This is warn Message
+2026-09-03 18:01:02 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 18:01:03 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 18:01:03 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 18:01:04 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 18:01:04 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 18:01:06 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 18:01:08 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-03 18:01:09 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-03 18:01:15 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-03 18:01:15 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-03 18:01:15 [main] TRACE BaseClass - This is Trace Message
+2026-09-03 18:01:15 [main] DEBUG BaseClass - This is debug Message
+2026-09-03 18:01:15 [main] FATAL BaseClass - This is fatal Message
+2026-09-03 18:01:15 [main] WARN  BaseClass - This is warn Message
+2026-09-03 18:01:15 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-03 18:01:15 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-03 18:01:15 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-03 18:01:15 [main] INFO  ActionDriver - clicked an Element
+2026-09-03 18:01:17 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-04 13:18:41 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-04 13:18:41 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-04 13:18:43 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-04 13:18:50 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-04 13:18:50 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-04 13:18:50 [main] TRACE BaseClass - This is Trace Message
+2026-09-04 13:18:50 [main] DEBUG BaseClass - This is debug Message
+2026-09-04 13:18:50 [main] FATAL BaseClass - This is fatal Message
+2026-09-04 13:18:50 [main] WARN  BaseClass - This is warn Message
+2026-09-04 13:18:50 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-04 13:18:50 [main] INFO  ActionDriver - Entered text :admin
+2026-09-04 13:18:50 [main] INFO  ActionDriver - Entered text :admin
+2026-09-04 13:18:50 [main] INFO  ActionDriver - clicked an Element
+2026-09-04 13:18:53 [main] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-04 13:18:53 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-04 13:18:53 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-04 13:18:55 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-04 13:19:00 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-04 13:19:00 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-04 13:19:00 [main] TRACE BaseClass - This is Trace Message
+2026-09-04 13:19:00 [main] DEBUG BaseClass - This is debug Message
+2026-09-04 13:19:00 [main] FATAL BaseClass - This is fatal Message
+2026-09-04 13:19:00 [main] WARN  BaseClass - This is warn Message
+2026-09-04 13:19:00 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-04 13:19:00 [main] INFO  ActionDriver - Entered text :Admin
+2026-09-04 13:19:00 [main] INFO  ActionDriver - Entered text :admin123
+2026-09-04 13:19:00 [main] INFO  ActionDriver - clicked an Element
+2026-09-04 13:19:04 [main] INFO  ActionDriver - clicked an Element
+2026-09-04 13:19:34 [main] ERROR ActionDriver - Element is not clickable: Expected condition failed: waiting for element found by By.xpath: //a[text()='Logout'] to be clickable, but the element was not visible.
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.48.0', revision: '27f5213 27f5213055e28398a5105b7892b7a3bb2012a6ef'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 152.0.7977.65, chrome: {chromedriverVersion: 152.0.7977.82 (d04cdb24d67b..., userDataDir: C:\Users\mindt\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:2721}, goog:processID: 13276, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:2721/devtool..., se:cdpVersion: 152.0.7977.65, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d31548491c0394eb37b107a8da96f4a
+2026-09-04 13:19:36 [main] INFO  ActionDriver - clicked an Element
+2026-09-04 13:19:38 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-04 13:19:38 [main] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-04 13:19:39 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-04 13:19:44 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-04 13:19:44 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-04 13:19:44 [main] TRACE BaseClass - This is Trace Message
+2026-09-04 13:19:44 [main] DEBUG BaseClass - This is debug Message
+2026-09-04 13:19:44 [main] FATAL BaseClass - This is fatal Message
+2026-09-04 13:19:44 [main] WARN  BaseClass - This is warn Message
+2026-09-04 13:19:44 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-04 13:22:37 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-04 13:22:37 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-04 13:22:38 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-04 13:22:44 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-04 13:22:44 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-04 13:22:44 [main] TRACE BaseClass - This is Trace Message
+2026-09-04 13:22:44 [main] DEBUG BaseClass - This is debug Message
+2026-09-04 13:22:44 [main] WARN  BaseClass - This is warn Message
+2026-09-04 13:22:44 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-04 13:22:44 [main] INFO  ActionDriver - Entered text :admin
+2026-09-04 13:22:44 [main] INFO  ActionDriver - Entered text :admin
+2026-09-04 13:22:49 [main] INFO  ActionDriver - clicked an Element
+2026-09-04 13:22:51 [main] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-04 13:22:51 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-04 13:22:51 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-04 13:22:52 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 11:57:52 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-05 11:57:52 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 11:57:55 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 11:58:00 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 11:58:00 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 11:58:00 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 11:58:00 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 11:58:00 [main] WARN  BaseClass - This is warn Message
+2026-09-05 11:58:00 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 11:58:00 [main] INFO  ActionDriver - Entered text :Element with name: username admin
+2026-09-05 11:58:01 [main] INFO  ActionDriver - Entered text :Element with name: password admin
+2026-09-05 11:58:01 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 11:58:02 [main] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-05 11:58:02 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 11:58:02 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 11:58:03 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 11:58:08 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 11:58:08 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 11:58:08 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 11:58:08 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 11:58:08 [main] WARN  BaseClass - This is warn Message
+2026-09-05 11:58:08 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 11:58:08 [main] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 11:58:08 [main] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 11:58:08 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 11:58:10 [main] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2026-09-05 11:58:10 [main] INFO  ActionDriver - clicked an Element -->Element with text: Surya Json
+2026-09-05 11:58:11 [main] INFO  ActionDriver - clicked an Element -->Element with class: oxd-userdropdown-link
+2026-09-05 11:58:14 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 11:58:14 [main] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-05 11:58:15 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 11:58:22 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 11:58:22 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 11:58:22 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 11:58:22 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 11:58:22 [main] WARN  BaseClass - This is warn Message
+2026-09-05 11:58:22 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 11:58:22 [main] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 11:58:22 [main] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 11:58:23 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 11:58:24 [main] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 11:58:24 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 12:04:33 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-05 12:04:33 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 12:04:35 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 12:04:43 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 12:04:43 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 12:04:43 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 12:04:43 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 12:04:43 [main] WARN  BaseClass - This is warn Message
+2026-09-05 12:04:43 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 12:04:43 [main] INFO  ActionDriver - Entered text :Element with name: username admin
+2026-09-05 12:04:43 [main] INFO  ActionDriver - Entered text :Element with name: password admin
+2026-09-05 12:04:47 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 12:04:48 [main] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-05 12:04:48 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 12:04:48 [main] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 12:04:50 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 12:04:57 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 12:04:57 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 12:04:57 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 12:04:57 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 12:04:57 [main] WARN  BaseClass - This is warn Message
+2026-09-05 12:04:57 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 12:04:58 [main] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 12:04:58 [main] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 12:04:58 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 12:05:06 [main] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2026-09-05 12:05:06 [main] INFO  ActionDriver - clicked an Element -->Element with text: Surya Json
+2026-09-05 12:05:15 [main] INFO  ActionDriver - clicked an Element -->Element with text: Logout
+2026-09-05 12:05:17 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 12:05:17 [main] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-05 12:05:18 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 12:05:25 [main] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 12:05:25 [main] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 12:05:25 [main] TRACE BaseClass - This is Trace Message
+2026-09-05 12:05:25 [main] DEBUG BaseClass - This is debug Message
+2026-09-05 12:05:25 [main] WARN  BaseClass - This is warn Message
+2026-09-05 12:05:25 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 12:05:25 [main] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 12:05:25 [main] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 12:05:25 [main] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 12:05:32 [main] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 12:05:32 [main] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:27:15 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-05 13:27:15 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-05 13:27:15 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:27:20 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:27:20 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 34
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: username admin
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: password admin
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is Trace Message
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is debug Message
+2026-09-05 13:27:26 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is warn Message
+2026-09-05 13:27:27 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :unable to describe the element Admin
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:27:28 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:27:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 34
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 13:27:35 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 13:27:36 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 13:27:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2026-09-05 13:27:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: SuryaPrasad Doe
+2026-09-05 13:27:38 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Logout
+2026-09-05 13:27:41 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:29:33 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-05 13:29:33 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:29:33 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-05 13:29:35 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:29:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is Trace Message
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is debug Message
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is warn Message
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:29:41 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created. 33
+2026-09-05 13:29:43 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 13:29:43 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 13:29:44 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:29:44 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:29:44 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:29:44 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:29:44 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:29:45 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 13:29:55 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 13:29:55 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:29:55 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:29:55 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:29:56 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 32
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 13:30:02 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:30:16 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-05 13:30:16 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:30:16 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-05 13:30:18 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:30:18 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is Trace Message
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is debug Message
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is warn Message
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created. 35
+2026-09-05 13:30:23 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:30:24 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:30:35 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-05 13:30:35 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:30:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-05 13:30:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-05 13:30:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 34
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-05 13:30:42 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-05 13:30:43 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-05 13:30:44 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2026-09-05 13:30:44 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: manda user
+2026-09-05 13:30:45 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Logout
+2026-09-05 13:30:47 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-07 15:02:11 [main] INFO  BaseClass - Config.properties file loaded successfully.
+2026-09-07 15:02:11 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-07 15:02:11 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Setting up Webdriver for: HomePageTest
+2026-09-07 15:02:14 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-07 15:02:15 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-07 15:02:21 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 34
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver instance is created.
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is Trace Message
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is debug Message
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is warn Message
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: username admin
+2026-09-07 15:02:23 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-07 15:02:24 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: password admin
+2026-09-07 15:02:24 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-07 15:02:26 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Test Passed - Text is Matching
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Element is displayed: unable to describe the element
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed
+2026-09-07 15:02:29 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Setting up Webdriver for: LoginPageTest
+2026-09-07 15:02:30 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is Trace Message
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is debug Message
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is warn Message
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver instance is created. 34
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: username Admin
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Entered text :Element with name: password admin123
+2026-09-07 15:02:37 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: Login
+2026-09-07 15:02:41 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Element is displayed: Element with text: Admin
+2026-09-07 15:02:41 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with text: dfg 45445
+2026-09-07 15:03:14 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - clicked an Element -->Element with class: oxd-userdropdown-link
+2026-09-07 15:03:16 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-07 15:03:16 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - Setting up Webdriver for: DummyClass
+2026-09-07 15:03:16 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - Setting up Webdriver for: DummyClass2
+2026-09-07 15:03:18 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-07 15:03:18 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - ActionDriver instance is created.
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] TRACE BaseClass - This is Trace Message
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] DEBUG BaseClass - This is debug Message
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] WARN  BaseClass - This is warn Message
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] INFO  ActionDriver - WebDriver instance is created.
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - ActionDriver instance is created. 90
+2026-09-07 15:03:24 [TestNG-test-OrangeHRMTest2-1] INFO  BaseClass - WebDriver instance is closed
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - WebDriver initialized and browser maximized successfully.
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - ActionDriver instance is created.
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] TRACE BaseClass - This is Trace Message
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] DEBUG BaseClass - This is debug Message
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] WARN  BaseClass - This is warn Message
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] INFO  ActionDriver - WebDriver instance is created.
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - ActionDriver instance is created. 91
+2026-09-07 15:03:25 [TestNG-test-OrangeHRMTest2-2] INFO  BaseClass - WebDriver instance is closed
